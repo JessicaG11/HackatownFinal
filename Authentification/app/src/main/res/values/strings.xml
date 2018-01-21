@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Authentification</string>
+    <string name="mot_de_passe">Mot de passe</string>
+    <string name="nom_dutilisateur" />
+    <string name="Utilisateur" />
+    <string name="title_activity_side_mennu">sideMennu</string>
+
+    <string name="title_activity_maps">Map</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,239 @@
+{
+  "project_info": {
+    "project_number": "99523111180",
+    "firebase_url": "https://teamupdb.firebaseio.com",
+    "project_id": "teamupdb",
+    "storage_bucket": "teamupdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99523111180:android:775c17fcd2397d43",
+        "android_client_info": {
+          "package_name": "com.hackatown.teamup.teamup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99523111180-stdjm2pospfs1pissbpspghsijdbovp4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackatown.teamup.teamup",
+            "certificate_hash": "77aa49341b8b5760fcbc1c7f80db3ff6f7f046a4"
+          }
+        },
+        {
+          "client_id": "99523111180-vcs141bkc9s3agnnqj04b3lsilt3b04q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBalCN1aWKduZsX7ntnwAJriuCEG5pDg-4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99523111180-vcs141bkc9s3agnnqj04b3lsilt3b04q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99523111180:android:e5f7c799c7b7dc1e",
+        "android_client_info": {
+          "package_name": "com.hackatown18.mades.hackatown18"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99523111180-ckd8umcsiv1r4gqfbb70iq1fl2g713v0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackatown18.mades.hackatown18",
+            "certificate_hash": "77aa49341b8b5760fcbc1c7f80db3ff6f7f046a4"
+          }
+        },
+        {
+          "client_id": "99523111180-vcs141bkc9s3agnnqj04b3lsilt3b04q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBalCN1aWKduZsX7ntnwAJriuCEG5pDg-4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99523111180-vcs141bkc9s3agnnqj04b3lsilt3b04q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99523111180:android:07c73343d10dc938",
+        "android_client_info": {
+          "package_name": "com.hackatown.mades.patinoireprojet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99523111180-u7ls1eik6quv290ce3jt1asmjmqddjtd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackatown.mades.patinoireprojet",
+            "certificate_hash": "77aa49341b8b5760fcbc1c7f80db3ff6f7f046a4"
+          }
+        },
+        {
+          "client_id": "99523111180-vcs141bkc9s3agnnqj04b3lsilt3b04q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBalCN1aWKduZsX7ntnwAJriuCEG5pDg-4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99523111180-vcs141bkc9s3agnnqj04b3lsilt3b04q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99523111180:android:88f339cb3be37bdb",
+        "android_client_info": {
+          "package_name": "com.hackatown.mades.hackapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99523111180-4nkegt1imt5uu980221ig82bn4v00f77.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackatown.mades.hackapp",
+            "certificate_hash": "77aa49341b8b5760fcbc1c7f80db3ff6f7f046a4"
+          }
+        },
+        {
+          "client_id": "99523111180-vcs141bkc9s3agnnqj04b3lsilt3b04q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBalCN1aWKduZsX7ntnwAJriuCEG5pDg-4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99523111180-vcs141bkc9s3agnnqj04b3lsilt3b04q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99523111180:android:d5666a8c501f8548",
+        "android_client_info": {
+          "package_name": "com.hackatown.mades.authentification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99523111180-fd4f70fgnvehh4u3uca2jar9g5k51qfc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackatown.mades.authentification",
+            "certificate_hash": "a290518ff2c7350a98b1321824a26ff8ddcf570e"
+          }
+        },
+        {
+          "client_id": "99523111180-p9oiqqkki2ag8bguk7q34u6u6v13v2s1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackatown.mades.authentification",
+            "certificate_hash": "77aa49341b8b5760fcbc1c7f80db3ff6f7f046a4"
+          }
+        },
+        {
+          "client_id": "99523111180-vcs141bkc9s3agnnqj04b3lsilt3b04q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBalCN1aWKduZsX7ntnwAJriuCEG5pDg-4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99523111180-vcs141bkc9s3agnnqj04b3lsilt3b04q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
